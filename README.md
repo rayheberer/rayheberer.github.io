@@ -1,4 +1,4 @@
-Online CV for Ray Heberer
+Online CV for Raymond Heberer
 
 Inspiration:
 

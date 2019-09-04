@@ -1,5 +1,1 @@
-Online CV for Raymond Heberer
-
-Inspiration:
-
-- https://github.com/datawookie/datawookie.github.io
+I host some of my projects here.
